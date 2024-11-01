@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // lib/db.ts
+=======
+>>>>>>> feature-branch
 import mysql from 'mysql2/promise';
 
 export const db = mysql.createPool({
